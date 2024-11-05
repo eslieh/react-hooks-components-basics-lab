@@ -7,7 +7,7 @@
 
 ## Instructions
 
-In the labs throughout this section, we'll be working on building a small
+In the labs throughout this s;;.ection, we'll be working on building a small
 portfolio site in React.
 
 Our goal for the first lesson is to get the basic components for our app — the
